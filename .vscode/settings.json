@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.yml": "dockerfile",
+    "chrono": "c",
+    "typeinfo": "c"
+  }
+}
